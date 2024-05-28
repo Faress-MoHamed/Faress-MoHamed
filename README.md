@@ -1,7 +1,5 @@
 <h2 align="left">Hi 👋! My name is Fares and I'm a Front-end developer</h2>
 
-###
-
 <div align="center">
 	<img
 		src="https://github-readme-stats.vercel.app/api?username=Faress-MoHamed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"
@@ -14,8 +12,6 @@
 		alt="languages graph"
 	/>
 </div>
-
-###
 
 <div align="left">
 	<img
@@ -79,8 +75,7 @@
 	/>
 </div>
 
-###
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center">
 	<div style="width: 50%" align="left">
 		<a href="https://www.instagram.com/faress_mohamed26/" target="_blank">
 			<img
@@ -114,16 +109,8 @@
 			/>
 		</a>
 	</div>
-
-	###
-
 	<div style="width: 50%" align="right">
-		<a href="https://open.spotify.com/user/31o6m7zbvfuec5oi74t7ouusbl4m">
-			<img
-				src="https://spotify-recently-played-readme.vercel.app/api?user=31o6m7zbvfuec5oi74t7ouusbl4m&count=5"
-				alt="Spotify recently played"
-			/>
-		</a>
+		[![Spotify recently
+		played](https://spotify-recently-played-readme.vercel.app/api?user=31o6m7zbvfuec5oi74t7ouusbl4m&count=5)](https://open.spotify.com/user/31o6m7zbvfuec5oi74t7ouusbl4m)
 	</div>
 </div>
-###
