@@ -59,3 +59,9 @@
 <img src="https://raw.githubusercontent.com/Faress-MoHamed/Faress-MoHamed/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Faress-MoHamed/count.svg?"  />
+</div>
+
+###
