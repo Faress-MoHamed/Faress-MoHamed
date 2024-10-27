@@ -37,7 +37,7 @@
   <a href="https://www.instagram.com/faress_mohamed26/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="instagram logo"  />
   </a>
-  <a href="fareess.mohameedd@gmail.com" target="_blank">
+  <a href="mailto:fareess.mohameedd@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/fares-mohamed-29a4a9285/" target="_blank">
